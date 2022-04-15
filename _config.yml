@@ -103,4 +103,6 @@ theme: landscape
 # Deployment
 ## Docs: https://github.com/yang5788/bo-test.git
 deploy:
-  type: ''
+  type: 'git'
+  repo: https://github.com/yang5788/bo-test.github.io.git
+  branch: yangwq
